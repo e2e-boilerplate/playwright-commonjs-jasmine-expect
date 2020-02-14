@@ -1,4 +1,4 @@
-# Playwright: (CommonjJS, Jasmine and Expect)
+# Playwright: (CommonJS, Jasmine and Expect)
 
 [![GitHub Actions status | e2e-boilerplates/playwright-commonjs-jasmine-expect](https://github.com/e2e-boilerplates/playwright-commonjs-jasmine-expect/workflows/playwright-commonjs-jasmine-expect/badge.svg)](https://github.com/e2e-boilerplates/playwright-commonjs-jasmine-expect/actions?workflow=playwright-commonjs-jasmine-expect)
 
