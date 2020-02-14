@@ -1,4 +1,4 @@
-name: playwright-commonjs-jasmine-assert
+name: playwright-commonjs-jasmine-expect
 
 on: 
   push:
