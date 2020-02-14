@@ -1,7 +1,7 @@
 {
-  "name": "playwright-commonjs-jasmine-assert",
+  "name": "playwright-commonjs-jasmine-expect",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jasmine and Assert",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect",
   "scripts": {
     "test": "npx jasmine",
     "lint": "npx eslint --ext .js ./ --fix"
