@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "jasmine": "3.5.0",
-    "playwright": "0.11.0"
+    "playwright": "0.11.1"
   },
   "husky": {
     "hooks": {
