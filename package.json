@@ -3,15 +3,17 @@
   "version": "1.0.0",
   "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect",
   "scripts": {
-    "test": "npx jasmine",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx jasmine"
   },
   "keywords": [
     "puppeteer",
     "commonjs",
     "jasmine",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
