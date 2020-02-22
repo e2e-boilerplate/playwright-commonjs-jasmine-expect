@@ -15,10 +15,7 @@ jobs:
     - name: Use Node.js 12.x
       uses: actions/setup-node@v1
       with:
-        node-version: '12.x'
-    - name: Fix broken apt list
-      if: matrix == null || matrix.os == 'ubuntu-latest' || matrix.os == 'ubuntu-18.04'
-      run: sudo perl -p -i -e 's#16\.04/prod xenial#18.04/prod bionic#' /etc/apt/sources.list.d/microsoft-prod.list{,.save}      
+        node-version: '12.x'     
     - name: install required packages
       run: |
         sudo apt-get update
