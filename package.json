@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "jasmine": "3.5.0",
     "playwright": "0.11.1"
@@ -22,13 +22,8 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jasmine",
     "playwright"
   ],
