@@ -1,10 +1,10 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "dependencies": {
     "jasmine": "3.5.0",
     "playwright": "0.11.1"
   },
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect",
+  "description": "playwright end-to-end test automation boilerplate.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
@@ -22,8 +22,13 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "commonjs",
+    "e2e",
+    "e2e tests",
+    "example",
     "expect",
+    "integration test",
     "jasmine",
     "playwright"
   ],
