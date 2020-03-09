@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-jasmine-expect/issues"
   },
@@ -26,8 +26,13 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "commonjs",
+    "e2e",
+    "e2e tests",
+    "example",
     "expect",
+    "integration test",
     "jasmine",
     "playwright"
   ],
