@@ -4,6 +4,8 @@
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-jasmine-expect/issues"
   },
   "dependencies": {
+    "chromedriver": "80.0.1",
+    "expect": "25.1.0",
     "jasmine": "3.5.0",
     "playwright": "0.11.1"
   },
