@@ -1,12 +1,11 @@
 | referrer                                                                                     | count | uniques |
 | :------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/playwright-commonjs-jasmine-expect                                          | 9     | 5       |
+| /e2e-boilerplate/playwright-commonjs-jasmine-expect                                          | 6     | 4       |
 | /e2e-boilerplate/playwright-commonjs-jasmine-expect/blob/master/spec/sandbox.spec.js         | 2     | 2       |
 | /e2e-boilerplate/playwright-commonjs-jasmine-expect/tree/master/spec                         | 2     | 2       |
-| /e2e-boilerplate/playwright-commonjs-jasmine-expect/tree/master/.github                      | 2     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jasmine-expect/actions/runs/65778748                    | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jasmine-expect/blob/master/.github/runs_status.md       | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-jasmine-expect/actions                                  | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-jasmine-expect/blob/master/.github/traffic/referrers.md | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-jasmine-expect/commits                                  | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-jasmine-expect/graphs/traffic                           | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-jasmine-expect/pulse                                    | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-jasmine-expect/tree/master/.github                      | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-jasmine-expect/tree/master/.github/traffic              | 1     | 1       |
