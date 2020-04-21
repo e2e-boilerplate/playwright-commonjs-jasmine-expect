@@ -9,3 +9,6 @@ Playwright end-to-end test automation boilerplate, Using Commonjs, Jasmine and E
     	2. cd playwright-commonjs-jasmine-expect
     	3. npm install
     	4. npm run test
+        
+    
+For more boilerplate click [here](https://github.com/e2e-boilerplate/utils/blob/master/docs/implemented.md)
